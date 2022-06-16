@@ -3,3 +3,4 @@ resource "azurerm_resource_group" "my_rg" {
   location = var.deploy_location
 
 }
+#commenthere
