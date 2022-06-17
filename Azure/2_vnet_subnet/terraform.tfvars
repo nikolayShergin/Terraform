@@ -1,0 +1,8 @@
+vnet_name                   = "my_vnet"
+deploy_location             = "eastus"
+address_space_my_addr_space = "10.0.0.0/16"
+rg_name                     = "terrafom_traing_rg"
+subnet_1_name               = "subnet1"
+subnet_2_name               = "subnet2"
+address_prefix_subnet_1     = "10.0.1.0/24"
+address_prefix_subnet_2     = "10.0.2.0/24"

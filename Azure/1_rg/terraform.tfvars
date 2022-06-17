@@ -1,0 +1,1 @@
+rg_name = "terrafom_traing_rg"
